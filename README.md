@@ -23,6 +23,6 @@ get_file()、get_file2()、get_file3()分别是遍历省市县的函数可以返
 可以通过判断子节点的数量来判断还需不需要继续遍历。
 每次运行在10ms左右更换成go语言或者java会更快
 
-![Uploading image.png…]()
+![image](https://github.com/Dreamchuang/dc_map/assets/157662406/c6379022-1135-47ba-accf-20e73ec3aa38)
 
 
