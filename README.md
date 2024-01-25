@@ -20,4 +20,6 @@ fun1()函数为提取矩阵的函数
 get_file()、get_file2()、get_file3()分别是遍历省市县的函数可以返回省市县的名字和子节点的数量。
 可以通过判断子节点的数量来判断还需不需要继续遍历。
 每次运行在10ms左右更换成go语言或者java会更快
+
+
 ![image](https://github.com/Dreamchuang/dc_map/assets/157662406/8209e21f-43e0-4ef5-9628-27874a336879)
