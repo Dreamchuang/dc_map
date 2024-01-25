@@ -1,4 +1,4 @@
-本项目为围栏算法通过输入坐标来获取此坐标对应的省市县test2.py为运行代码
+![image](https://github.com/Dreamchuang/dc_map/assets/157662406/2de096fa-b4a2-467e-bd3d-da09b0f081f9)本项目为围栏算法通过输入坐标来获取此坐标对应的省市县test2.py为运行代码
 
 地图上每个省市县的围栏都可以在此网站https://datav.aliyun.com/portal/school/atlas/area_selector
 获取本项目已经将所有的省市县获取放到文件夹中test.py为爬虫代码。爬取下来的数据结构可能会不一样因此本项目修改了一些围栏的结构
@@ -19,3 +19,4 @@ mm()此函数为计算最小外接矩阵的函数将计算好的外接矩阵存�
 fun1()函数为提取矩阵的函数
 get_file()、get_file2()、get_file3()分别是遍历省市县的函数可以返回省市县的名字和子节点的数量。
 可以通过判断子节点的数量来判断还需不需要继续遍历。
+每次运行在10ms左右更换成go语言或者java会更快
